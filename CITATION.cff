@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it and keep the credit to the organisation that started it."
+title: "APO 1.0: Agent Preference Optimization"
+version: "1.0"
+date-released: "2026-11-23"
+url: "https://www.sgai.sg/protocols/apo/1.0"
+repository-code: "https://github.com/artificialnn/APO"
+license: CC-BY-4.0
+authors:
+  - name: "SGAI Studio Pte. Ltd."
+    country: SG
+    website: "https://www.sgai.sg"
+  - family-names: Qin
+    given-names: Jay
+    affiliation: "SGAI Studio Pte. Ltd."
+identifiers:
+  - type: other
+    value: "UEN 202620727K"
+    description: "Singapore Unique Entity Number of the organisation that started this work"
